@@ -1,5 +1,8 @@
 _repo: Rappiolle-Kertomus-heikosta-miehesta_52544
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Koskimaa, Juho
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46158
     wikipedia: https://fi.wikipedia.org/wiki/Juho_Koskimaa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52544#Rappiolle-Kertomus-heikosta-miehesta
 gutenberg_issued: '2016-07-10'
 gutenberg_type: Text
 identifiers:
